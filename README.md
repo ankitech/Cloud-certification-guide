@@ -5,7 +5,11 @@ Azure certification patch guide
 flowchart LR
 
     AZ900(((fa:fa-angle-up AZ-900\n*)))
+    style AZ900 fill:green
+
     AZ204(((fa:fa-angle-double-up AZ-204\n**)))
+    style AZ204 fill:yellow
+
     AZ104(((fa:fa-angle-double-up AZ-104\n**)))
     AZ500(((fa:fa-angle-double-up AZ-500\n**)))
     AZ700(((fa:fa-angle-double-up AZ-700\n**)))
@@ -14,9 +18,13 @@ flowchart LR
     AZ400(((fa:fa-vote-yea AZ-400\n***)))
 
     AI900(((fa:fa-angle-up AI-900\n*)))
+    style AI900 fill:yellow
+
     AI102(((fa:fa-angle-double-up AI-102\n**)))
 
     DP900(((fa:fa-angle-up DP-900\n*)))
+    style DP900 fill:green
+    
     DP100(((fa:fa-angle-double-up DP-100\n**)))
     DP203(((fa:fa-angle-double-up DP-203\n**)))
     DP300(((fa:fa-angle-double-up DP-300\n**)))
