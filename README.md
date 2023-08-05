@@ -18,9 +18,10 @@ flowchart LR
     AZ400(((fa:fa-vote-yea AZ-400\n***)))
 
     AI900(((fa:fa-angle-up AI-900\n*)))
-    style AI900 fill:yellow
+    style AI900 fill:green
 
     AI102(((fa:fa-angle-double-up AI-102\n**)))
+    style AI102 fill:yellow
 
     DP900(((fa:fa-angle-up DP-900\n*)))
     style DP900 fill:green
