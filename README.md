@@ -61,51 +61,31 @@ mindmap
 root((Learning))
     (Devops)
         kuberenetes
-            kodekloud
-            ::icon(fa fa-laptop-file)
+            kodekloud 🖥️
     (Cloud)
         azure
-            kodekloud
-            ::icon(fa fa-laptop-file)
-            linkeding learning
-            ::icon(fa fa-laptop-file)
-            microsoft learn
-            ::icon(fa fa-book-atlas)
+            kodekloud 🖥️
+            linkeding learning 🖥️
+            microsoft learn 📜
         AWS
-            kodecloud
-            ::icon(fa fa-laptop-file)
+            kodecloud 🖥️
     (Event driven design)
         kafka
-            youtube
-            ::icon(fa fa-play)
-            confluent
-            ::icon(fa fa-book-atlas)
+            youtube ▶️
+            confluent 📜
     (System Design)
-        interview ready
-        ::icon(fa fa-laptop-file)
-        Algoexpert
-        ::icon(fa fa-code)
-        byte byte go
-        ::icon(fa fa-book-atlas)
-        building microservices
-        ::icon(fa fa-book)
+        interview ready 🖥️
+        Algoexpert 📜
+        byte byte go 📜
+        building microservices 📖
     (DSA)
-        Algoexpert
-        ::icon(fa fa-code)
-        leetcode
-        ::icon(fa fa-code)
-        bosscoder
-        ::icon(fa fa-laptop-file)
-        youtube
-        ::icon(fa fa-play)
+        Algoexpert 📜
+        leetcode 👩‍💻
+        bosscoder 👩‍💻
+        youtube ▶️
     (Database design)
-        Designing data intensive application
-        ::icon(fa fa-book)
-        Database internals
-        ::icon(fa fa-book)
+        Designing data intensive application 📖
+        Database internals 📖
     (Identity Management)
-        Itentity-native Infrastrucure access managemnt
-        ::icon(fa fa-book)
-
-
+        Itentity-native Infrastrucure access managemnt 📖
 ```
