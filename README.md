@@ -1,3 +1,4 @@
+```mermaid
 mindmap
 root((Azure))
     AI(AI)
@@ -48,3 +49,4 @@ root((Azure))
             ::icon(fa fa-stopwatch)
                 SC-100
                 ::icon(fa fa-stopwatch)
+```
