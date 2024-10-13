@@ -1,15 +1,15 @@
 ```mermaid
 mindmap
 root((Azure))
-    AI(AI)
+    (AI)
     ::icon(fa fa-robot)
-        AI-900
+        ))AI-900✅((
         ::icon(fa fa-square-check)
             AI-102
             ::icon(fa fa-calendar-days)
-    Cloud(Cloud)
+    (Cloud)
     ::icon(fa fa-cloud)
-        AZ-900
+        ))AZ-900✅((
         ::icon(fa fa-square-check)
             AZ-204
             ::icon(fa fa-stopwatch)
@@ -25,7 +25,7 @@ root((Azure))
                 ::icon(fa fa-stopwatch)
                 AZ-305
                 ::icon(fa fa-stopwatch)
-    Security(Security)
+    (Security)
     ::icon(fa fa-shield)
         SC-900
         ::icon(fa fa-stopwatch)
@@ -37,9 +37,9 @@ root((Azure))
             ::icon(fa fa-stopwatch)
                 DP-500
                 ::icon(fa fa-stopwatch)
-    Data(Data)
+    (Data)
     ::icon(fa fa-database)
-        DP-900
+        ))DP-900✅((
         ::icon(fa fa-square-check)
             SC-400
             ::icon(fa fa-stopwatch)
@@ -49,4 +49,5 @@ root((Azure))
             ::icon(fa fa-stopwatch)
                 SC-100
                 ::icon(fa fa-stopwatch)
+
 ```
